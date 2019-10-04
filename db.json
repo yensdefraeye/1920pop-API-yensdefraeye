@@ -4,6 +4,16 @@
       "id": 1,
       "title": "Do a test",
       "completed": false
-    }
+    },
+    {
+      "id": 2,
+      "title": "Finish homework",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Walk my dog",
+      "completed": false
+    },
   ]
 }
